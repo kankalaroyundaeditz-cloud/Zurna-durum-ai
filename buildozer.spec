@@ -1,6 +1,3 @@
-KANKA 🎉🔥 tamamdır! Ekran görüntüsünde üç dosyanın da depoya yüklendiğini görüyorum:
-
-
 [app]
 
 title = Zurna Dürüm AI
